@@ -1,0 +1,7 @@
+{
+  "name": "Aura: Bão Dia",
+  "description": "Um assistente matinal inteligente que traz inspiração, produtividade e reflexão para o seu dia, com o toque caloroso de um 'Bão dia'.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
